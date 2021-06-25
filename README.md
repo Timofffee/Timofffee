@@ -10,3 +10,10 @@
 </p>
 
 <br />
+
+## Plans
+- [ ] [TODO Manager](https://github.com/HGRussian/todo)
+- [ ] [Hash Checker](https://github.com/Timofffee/file-hash-checker) implementation on [Nim](https://github.com/nim-lang/Nim)
+- [ ] Fork [ECS](https://github.com/yglukhov/ecs) with better syntax and optimizations
+- [ ] Game Engine on [Nim](https://github.com/nim-lang/Nim) with [raylib](https://github.com/Guevara-chan/Raylib-Forever) and ECS
+- [ ] Simple programing language with tiny syntax

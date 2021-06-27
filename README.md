@@ -13,6 +13,6 @@
 
 ## Plans
 - [ ] [TODO Manager](https://github.com/HGRussian/todo)
-- [ ] Fork [ECS](https://github.com/yglukhov/ecs) with better syntax and optimizations
+- [x] Fork [ECS](https://gitlab.com/coaljoe/nim-ecs) with better syntax and optimizations ([link](https://github.com/Timofffee/tinyecs))
 - [ ] Game Engine on [Nim](https://github.com/nim-lang/Nim) with [raylib](https://github.com/Guevara-chan/Raylib-Forever) and ECS
 - [ ] Simple programing language with tiny syntax

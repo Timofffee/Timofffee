@@ -10,12 +10,3 @@
 </p>
 
 <br />
-
-## Plans
-### 2021
-- [ ] [TODO Manager](https://github.com/HGRussian/todo)
-- [x] Fork [ECS](https://gitlab.com/coaljoe/nim-ecs) ([link](https://github.com/Timofffee/tinyecs))
-- [ ] Rewrite ECS for optimizations and simplify
-- [ ] Learn C++ and make simple game with him.
-### Next
-- [ ] Game Engine in [Nim](https://github.com/nim-lang/Nim) or c++ with [raylib](https://github.com/Guevara-chan/Raylib-Forever) and ECS
